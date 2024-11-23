@@ -1,3 +1,4 @@
+import Markdown from "react-markdown";
 import styles from "./Chat.module.css";
 
 const WELCOME_MESSAGE = {
@@ -10,7 +11,7 @@ export function Chat({ messages }) {
     <div className={styles.Chat}>
       {[WELCOME_MESSAGE, ...messages].map(({ role, content }, index) => (
         <div key={index} className={styles.Message} data-role={role}>
-          {content}
+          <Markdown>{content}</Markdown>
         </div>
       ))}
     </div>
