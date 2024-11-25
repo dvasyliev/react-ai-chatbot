@@ -7,6 +7,17 @@
   overflow-y: auto;
 }
 
+.Group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.Group:nth-last-of-type(2) {
+  /* 8px - gap between groups */
+  min-height: calc(100% - 8px);
+}
+
 .Message {
   width: 90%;
   padding: 0 16px;
