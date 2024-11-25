@@ -26,6 +26,6 @@
 
   &[data-role="user"] {
     align-self: flex-end;
-    background: #f3f3f3;
+    background: light-dark(#f3f3f3, #303030);
   }
 }
