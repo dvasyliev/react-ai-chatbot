@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Assistant } from "./assistants/googleai";
+import { Assistant } from "./assistants/openai";
 import { Loader } from "./components/Loader/Loader";
 import { Chat } from "./components/Chat/Chat";
 import { Controls } from "./components/Controls/Controls";
@@ -29,7 +29,7 @@ function App() {
     addMessage({ content, role: "user" });
     setIsLoading(true);
     try {
-      const result = await assistant.chatStream(content);
+      const result = await assistant.chatStream(content, messages);
       let isFirstChunk = false;
 
       for await (const chunk of result) {
