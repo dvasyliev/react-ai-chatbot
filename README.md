@@ -1,22 +1,29 @@
-About me ◽️ 👨🏻‍💻 Front-End Engineer (9+ years) ◽️ 🎬 React.js Instructor on Udemy ◽️ 🎯 Mentor for Developers
-
-My courses
-
-◽️ [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://www.udemy.com/course/reactjs-ai-chatbot-built-with-chatgpt-and-gemini-ai/?referralCode=C70BB647069AB126D136)
-
-◽️ [React Crash Course: From Zero to Hero](https://www.udemy.com/course/react-crash-course-from-zero-to-hero/?referralCode=FFEE417046C196879B4F&couponCode=CPSALEBRAND24)
+About me ◽️ 🎬 Udemy Instructor ◽️ 👨🏻‍💻 Front-End Engineer (10+ years) ◽️ 🎯 Mentor for Developers
 
 # AI Chatbot App
 
-This repository contains the source code for the "React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek" course.
+This repository contains the Source Code for the "AI Chatbot App" from 🤖 [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://linkly.link/2DUBq) course.
 
-## "React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek" course
+# My Other Courses
 
-Build a Real-time AI Chatbot with React.js, integrating ChatGPT, Gemini AI and DeepSeek for dynamic conversations.
+#### Front-End Courses
 
-In this course, you'll begin by building Chatbot UI, integrating OpenAI (ChatGPT), Google AI (Gemini), DeepSeek (R1 and V3) and building your first AI-powered chatbot in React. You'll learn how to implement real-time chat streaming, add markdown support, manage loading states, and create a seamless user experience, all while working with React's component-based architecture. By the end of the course, you'll have the skills to create dynamic, interactive AI chatbots with React.
+🧑🏻‍💻 [React Crash Course: From Zero to Hero](https://linkly.link/1zdiJ)\
+🤖 [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://linkly.link/2DUBq)
 
-# How to use code examples from Github
+#### AI & Vibe Coding Courses
+
+😈 [GitHub Copilot for Beginners: AI Coding Crash Course](https://linkly.link/2B4WN)\
+👻 [Cursor AI for Beginners: AI Coding Crash Course](https://linkly.link/2CKBT)\
+🏄🏻‍♂️ [Windsurf for Beginners: AI Coding Crash Course ](https://linkly.link/2DUC9)\
+❤️ [Lovable AI: Complete Guide for Vibe Coding](https://linkly.link/2DUC1)
+
+#### Full-Stack Courses
+
+👓 [Next.js Crash Course: Build a Full-Stack App in a Weekend](https://linkly.link/2EUQ5)\
+🧩 [Node.js Crash Course: Build a REST API in a Weekend](https://linkly.link/2EUQ6)
+
+# How to use Code Examples from Github
 
 ## Download the code source
 
