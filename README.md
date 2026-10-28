@@ -4,24 +4,48 @@ About me ◽️ 🎬 Udemy Instructor ◽️ 👨🏻‍💻 Front-End Engineer 
 
 This repository contains the Source Code for the "AI Chatbot App" from 🤖 [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://linkly.link/2DUBq) course.
 
-# My Other Courses
+# All My Courses
+
+#### Agentic AI Courses
+
+🎛️ [Harness Engineering: Modern AI Software Development Bootcamp](https://go.dvasyliev.com/harness-engineering)\
+🦞 [OpenClaw for Developers: AI Coding Crash Course](https://go.dvasyliev.com/openclaw)\
+🧑🏻‍💻 [AI Code Review: Evaluate Python Code with Confidence](https://go.dvasyliev.com/evaluating-ai-code)\
+
+#### AI Tools Courses
+
+🔍 [AI Code Review: Evaluate Python Code with Confidence](https://go.dvasyliev.com/evaluating-ai-code)\
+🧑🏻‍💻 [Claude Code: AI Crash Course for Developers](https://go.dvasyliev.com/claude-code)\
+😈 [GitHub Copilot for Beginners: AI Coding Crash Course](https://go.dvasyliev.com/copilot)\
+👻 [Cursor AI for Beginners: AI Coding Crash Course](https://go.dvasyliev.com/cursor)\
+🏄🏻‍♂️ [Windsurf for Beginners: AI Coding Crash Course](https://go.dvasyliev.com/windsurf)\
+🪐 [Google Antigravity for Beginners: AI Coding Crash Course](https://go.dvasyliev.com/antigravity)
+
+#### AI Certifications Courses
+
+🏅 [CCA-F: Claude Certified Architect — Complete Exam Preparation](https://go.dvasyliev.com/cca-f)\
+📜 [GH-300: GitHub Copilot Exam Preparation](https://go.dvasyliev.com/gh300)\
+📝 [GH-300: GitHub Copilot Practice Certification Exam](https://go.dvasyliev.com/gh300-practice)
+
+#### Vibe Coding Courses
+
+⚡ [Vibe Coding for Developers: v0, AI, Supabase, Vercel Deploy](https://go.dvasyliev.com/v0)\
+❤️ [Lovable AI: Complete Guide for Vibe Coding](https://go.dvasyliev.com/lovable)
 
 #### Front-End Courses
 
-🧑🏻‍💻 [React Crash Course: From Zero to Hero](https://linkly.link/1zdiJ)\
-🤖 [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://linkly.link/2DUBq)
-
-#### AI & Vibe Coding Courses
-
-😈 [GitHub Copilot for Beginners: AI Coding Crash Course](https://linkly.link/2B4WN)\
-👻 [Cursor AI for Beginners: AI Coding Crash Course](https://linkly.link/2CKBT)\
-🏄🏻‍♂️ [Windsurf for Beginners: AI Coding Crash Course ](https://linkly.link/2DUC9)\
-❤️ [Lovable AI: Complete Guide for Vibe Coding](https://linkly.link/2DUC1)
+⚛️ [React Crash Course: From Zero to Hero](https://go.dvasyliev.com/react)\
+🤖 [React.js AI Chatbot App with ChatGPT and Gemini AI](https://go.dvasyliev.com/ai-chatbot)
 
 #### Full-Stack Courses
 
-👓 [Next.js Crash Course: Build a Full-Stack App in a Weekend](https://linkly.link/2EUQ5)\
-🧩 [Node.js Crash Course: Build a REST API in a Weekend](https://linkly.link/2EUQ6)
+👓 [Next.js Crash Course: Build a Full-Stack App in a Weekend](https://go.dvasyliev.com/nextjs)\
+🧩 [Node.js Crash Course: Build a REST API in a Weekend](https://go.dvasyliev.com/nodejs)
+
+#### Other Courses
+
+👣 [AI Agents with OpenAI AgentKit: Hands-On Guide](https://go.dvasyliev.com/agentkit)\
+💬 [ChatGPT for Developers: AI Coding Crash Course](https://go.dvasyliev.com/chatgpt)
 
 # How to use Code Examples from Github
 
